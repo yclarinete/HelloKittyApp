@@ -39,6 +39,8 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     justifyContent: 'space-between',
     gap: 12,
+    marginLeft: 400,
+    marginRight: 400,
   },
   card: {
     width: CARD, height: CARD,
